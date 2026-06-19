@@ -1,0 +1,13 @@
+movie_id,title,genre
+1,Avengers,Action
+2,Iron Man,Action
+3,Batman Begins,Action
+4,Titanic,Romance
+5,The Notebook,Romance
+6,Interstellar,Sci-Fi
+7,Gravity,Sci-Fi
+8,The Conjuring,Horror
+9,Annabelle,Horror
+10,Doctor Strange,Action
+11,Inception,Sci-Fi
+12,Insidious,Horror
